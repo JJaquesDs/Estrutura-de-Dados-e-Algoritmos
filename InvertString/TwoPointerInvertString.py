@@ -1,7 +1,6 @@
 
 word: str = "O abacaxi vai entrar"
 
-
 def reversa_palavra(word):
 
     saida: str = ""

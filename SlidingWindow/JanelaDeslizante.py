@@ -22,4 +22,3 @@ def maxima_substring(s: str) -> int:
 
     return max_atual
 
-
